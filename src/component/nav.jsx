@@ -13,7 +13,7 @@ const Nav = () => {
   const [isLoginOpen, setSignupOpen] = useState(false);
 
   return (
-    <nav className="bg-[#333] w-full fixed z-1000">
+    <nav className="bg-transparent w-full fixed z-1000">
       <div className="flex items-center justify-between h-[5rem] px-5 md:px-10 relative">
         {/* Logo */}
         <a href="/" className="text-white font-extrabold text-3xl">
