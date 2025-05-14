@@ -17,6 +17,7 @@ If you are developing a production application, we recommend using TypeScript an
 
 commands for react:
 npm install reactrouter-dom
+npm install tailwindcss @tailwindcss/vite
 npm i @tanstack/react-query
 npm i -D @tanstack/eslint-plugin-query
 npm install formik --save
